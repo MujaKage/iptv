@@ -13,7 +13,7 @@ http://iptv.mujakage.my.id/mnctv.m3u8
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="TV LOKAL",GTV
-http://iptv.mujakage.my.id/global.m3u8
+http://iptv.mujakage.my.id/iptv/global.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WmsvPYGur2ALODusr0oSQf-Y33U=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="MOVIE TV",CITRA BIOSKOP
 https://etslive-2-vidio-com.akamaized.net/exp=1591604355~acl=/hls-p/ingest_geo_6684_*/*~hmac=2c939ca2c44517bd37b2555f25f397e947abd0048b49b7665b94478b2d7afdfe/hls-p/ingest_geo_6684_720p/index.m3u8
